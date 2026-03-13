@@ -1,6 +1,6 @@
 export default function HomePage() {
   return (
-    <div className="text-center py-20">
+    <div className="text-center py-40 h-[85vh]">
       <h1 className="text-3xl font-bold mb-4">E-Commerce Dashboard</h1>
 
       <p className="text-gray-600 mb-6">
